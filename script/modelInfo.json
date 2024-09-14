@@ -1,0 +1,9 @@
+[
+    {
+        "engine" : "tflite",
+        "modelFile": "./models/mnist.tflite",
+        "backend": ["cpu", "gpu"],
+        "inputFile": "",
+        "outputFile": ""
+    }
+]
